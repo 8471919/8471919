@@ -1,3 +1,23 @@
+### ⭐️ Hi, there! I'm Michael :)
+I'm a student studying about node.js  
+As I think, Developer is a person who develops not only code, but also himself/herself and his/her surrounding together.
+
+🌱 I’m currently learning nest.js  
+🌱 I want to be myself who does my best.
+
+
+email : 7471919@naver.com  
+linkedIn : https://www.linkedin.com/in/hansu-jeong-49b76221a/
+
+
+### Tech stack
+
+### Tech I've used at least once
+
+### Interest
+
+
+
 <div>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8471919&count_bg=%2379C83D&title_bg=%23555555&icon=jquery.svg&icon_color=%23F5FF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
