@@ -38,6 +38,9 @@ I think developer is a person who develops not only code, but also himself/herse
 
 ### 📘 Tech I've used at least once 
 <p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
