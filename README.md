@@ -25,7 +25,7 @@ I think developer is a person who develops not only code, but also himself/herse
   <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
