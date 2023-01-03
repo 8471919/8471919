@@ -53,6 +53,7 @@ I think developer is a person who develops not only code, but also himself/herse
 
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
