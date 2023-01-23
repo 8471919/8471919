@@ -11,7 +11,7 @@ I think developer is a person who develops not only code, but also himself/herse
 🌱 I’m currently learning nest.js  
 🌱 I want to be myself who does my best.
 
-### 📞 contact 
+### 📞 contact & channel
 <p>
   <a href="mailto:7471919@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:jhs101603@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
