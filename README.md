@@ -16,7 +16,7 @@ I think developer is a person who develops not only code, but also himself/herse
   <a href="mailto:7471919@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:jhs101603@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hansu-jeong-49b76221a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> </a>
-  <a href="https://suloth.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://suloth.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
   
 ### 📚 Tech stack 
