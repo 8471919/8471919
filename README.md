@@ -75,14 +75,17 @@ I think developer is a person who develops not only code, but also himself/herse
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8471919&count_bg=%2379C83D&title_bg=%23555555&icon=jquery.svg&icon_color=%23F5FF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-  
-<table id="stats"><tr><td valign="top" width="55%">
+
+<div display="flex">
+  <div valign="top" width="55%">
   <img src="https://github-readme-stats.vercel.app/api?username=8471919&show_icons=true&theme=radical"></td>
+  </div>
   
-  <td valign="top" width="45%">
+  <div valign="top" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8471919&layout=compact"></td>
-  </tr>
-</table>
+  </div>
+</div>
+
 </div>
 
   
