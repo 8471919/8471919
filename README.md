@@ -80,7 +80,7 @@ I think developer is a person who develops not only code, but also himself/herse
   <img src="https://github-readme-stats.vercel.app/api?username=8471919&show_icons=true&theme=radical"></td>
   
   <td valign="top" width="45%">
-  <img margin="auto" display="block" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8471919&layout=compact"></td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8471919&layout=compact"></td>
   </tr>
 </table>
 </div>
